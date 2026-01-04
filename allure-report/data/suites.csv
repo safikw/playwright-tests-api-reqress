@@ -1,0 +1,5 @@
+"DESCRIPTION","DURATION IN MS","NAME","PARENT SUITE","START TIME","STATUS","STOP TIME","SUB SUITE","SUITE","TEST CLASS","TEST METHOD"
+"","142","REQ-001 GET /api/users?page=2 - returns users for page 2","chromium","2026-01-05","passed","2026-01-05","API Regression Tests (Reqres)","api.spec.js","",""
+"","547","REQ-004 POST /api/users?page=2 - invalid HTTP method","chromium","2026-01-05","passed","2026-01-05","API Regression Tests (Reqres)","api.spec.js","",""
+"","144","REQ-003 GET /api/users?page=2 - users list is not empty","chromium","2026-01-05","passed","2026-01-05","API Regression Tests (Reqres)","api.spec.js","",""
+"","142","REQ-002 GET /api/users?page=2 - response structure","chromium","2026-01-05","passed","2026-01-05","API Regression Tests (Reqres)","api.spec.js","",""
